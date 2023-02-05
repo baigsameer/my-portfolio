@@ -277,7 +277,16 @@ h6 {
   }
 }
 
+
+
+
 @media (max-width: 768px) {
+  #hero{
+    background: url("../img/hero1-bg.png.jpg")right fixed no-repeat rgb(44, 100, 102);
+    background-position: right;
+    margin-right: auto; 
+    
+  }
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
